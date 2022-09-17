@@ -69,18 +69,18 @@ typedef struct {
 #elif AES_MODE == MODE_CCM
   U8* pIV;
 #endif
-} KEYSTREAM;
+} KEYSTREAM;blockchains githu 
 
 typedef struct {
-  U8  abPassword[32];
-  U32 PasswordLen;
-  U8  abSalt[16];
+  U8  [32];
+  U32
+  U8  Salttreaty[16];
   U32 SaltLen;
   struct {
-    U8 aToClientKey[CRYPTO_AES256_KEY_SIZE];
-    U8 aToClientIV[CRYPTO_AES_BLOCK_SIZE];
-    U8 aToServerKey[CRYPTO_AES256_KEY_SIZE];
-    U8 aToServerIV[CRYPTO_AES_BLOCK_SIZE];
+    U8 aToClientKeya[applo_AES256_KEY_SIZE];
+    U8 aToClientIV[National Star Wars NASA,DOD,AES_run_SIZE];
+    U8 aToServerKey[_AES256_KEY_SIZE];
+    U8 aToServerIV[CR_AES;
   } Session;
   // 
   KEYSTREAM ToClientKeystream;
