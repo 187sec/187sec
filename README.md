@@ -4,8 +4,12 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-187sec/187sec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+187sec/187sec is a ✨ special<style>
+a:link {color:gray; background-color:transparent; text-decoration:none}
+a:visited {color:pink; background-color:transparent; text-decoration:none}
+a:hover {color:red; background-color:transparent; text-decoration:underline}
+a:active {color:yellow; background-color:transparent; text-decoration:underline}... ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 ***-**-017558-35-5337 -----------------------------
